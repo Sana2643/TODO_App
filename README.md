@@ -1,4 +1,8 @@
-# TODO_App Requirement
+# TODO_App 
+"A streamlined todo app for efficient task management and Self-organization."
+
+
+#Requirement
 
 Tool:
   -Android Studio version [Electric Eel]
@@ -6,4 +10,7 @@ Tool:
 
 Software:
   -Java8 version
-  
+
+
+
+         
